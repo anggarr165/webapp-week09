@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Native MVC Example</title>
+<title>Native MVC Example Aplikasi Web UAG</title>
 <link rel="stylesheet" href="/latihan-week09/assets/css/bootstrap.css" />
 <script type="text/javascript" src="/latihan-week09/assets/js/bootstrap.js"></script>
 </head>
